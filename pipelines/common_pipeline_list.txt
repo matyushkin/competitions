@@ -1,0 +1,45 @@
+lists
+
+# Common competition pipeline
+
+# Exploratory data analysis
+## Statistics
+## Boxplots
+
+# Data Cleaning
+## Fill N/A
+## Categories cleaning
+## Categories merge
+
+# Data preparation
+## Common preparation
+### Label encoding
+### OHE
+### Frequency
+### Scaling
+
+## Neural networks
+## Decision trees
+## Time series
+## Computer vision
+## Text
+### Count, TF-IDF, Hash
+### Embeddings: Glove, Word2Vec, Fasttext
+
+# Models
+## Linear models
+## Tree models: LGB/XGB/Catboost
+## Neural networks: CNN, RNN, Autoencorders
+## Exotic
+
+# Hyperparameters search
+## Bayesian optimization
+## hyperopt
+
+# Feature selection
+## Shuffle
+## Target permutation
+## Boruta
+## RFE
+
+# Ensemble
